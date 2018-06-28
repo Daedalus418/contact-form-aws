@@ -1,0 +1,11 @@
+{
+  "name": "smashing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gaelle",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.265.1",
+    "serverless": "^1.27.3"
+  }
+}
